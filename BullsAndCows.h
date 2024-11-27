@@ -26,8 +26,8 @@ vector<int> generateAnswer(int maxDigits)
 	vctr.resize(maxDigits);
 
 	// Return the resized shuffled vector
-	return vctr = {8,6,2,9}; // DEBUGGING VALUE
-	//return vctr // return random answer
+	//return vctr = {8,6,2,9}; // DEBUGGING VALUE
+	return vctr; // return random answer
 }
 
  bool hasOnlyDigits(const string s) 
